@@ -1,0 +1,11 @@
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.exe
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.deps.json
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.runtimeconfig.json
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.runtimeconfig.dev.json
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.dll
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\bin\Debug\netcoreapp3.1\TyggegumiMaskine.pdb
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\obj\Debug\netcoreapp3.1\TyggegumiMaskine.csprojAssemblyReference.cache
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\obj\Debug\netcoreapp3.1\TyggegumiMaskine.AssemblyInfoInputs.cache
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\obj\Debug\netcoreapp3.1\TyggegumiMaskine.AssemblyInfo.cs
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\obj\Debug\netcoreapp3.1\TyggegumiMaskine.dll
+C:\Users\Jesper Deleurand\source\repos\TyggegumiMaskine\TyggegumiMaskine\obj\Debug\netcoreapp3.1\TyggegumiMaskine.pdb
