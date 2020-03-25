@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
+//Hvordan kan man få fat i et tyggegummi her? Burde maskinen ikke kunne levere et tyggegummi til det stakkels lille barn der gerne vil have et?
+//Flot du har brug singletom
+
 namespace TyggegumiMaskine
 {
     public class GumMachine
